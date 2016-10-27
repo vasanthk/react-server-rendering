@@ -7,6 +7,8 @@ Info on React Server side rendering
 
 [Strategies for server-side rendering of asynchronously initialized React.js components](http://stackoverflow.com/questions/25983001/strategies-for-server-side-rendering-of-asynchronously-initialized-react-js-comp)
 
+[Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
+
 [Discussion: Support asynchronous server rendering (waiting for data before rendering)](https://github.com/facebook/react/issues/1739)
 
 [Suggestions: Speeding up Isomorphic app](http://stackoverflow.com/a/34835754/1672655)
