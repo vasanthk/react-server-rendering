@@ -12,3 +12,7 @@ Info on React Server side rendering
 [Discussion: Support asynchronous server rendering (waiting for data before rendering)](https://github.com/facebook/react/issues/1739)
 
 [Suggestions: Speeding up Isomorphic app](http://stackoverflow.com/a/34835754/1672655)
+
+## Videos
+
+[Hastening React SSR with Component Memoization and Templatization](https://www.youtube.com/watch?v=sn-C_DKLKPE)
