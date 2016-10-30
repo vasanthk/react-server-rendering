@@ -13,6 +13,8 @@ Info on React Server side rendering
 
 [Suggestions: Speeding up Isomorphic app](http://stackoverflow.com/a/34835754/1672655)
 
+[React DOM Stream](https://github.com/aickin/react-dom-stream)
+
 ## Videos
 
 [Hastening React SSR with Component Memoization and Templatization](https://www.youtube.com/watch?v=sn-C_DKLKPE)
