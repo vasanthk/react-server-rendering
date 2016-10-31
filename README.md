@@ -15,6 +15,8 @@ Info on React Server side rendering
 
 [React DOM Stream](https://github.com/aickin/react-dom-stream)
 
+[You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
+
 ## Videos
 
 [Hastening React SSR with Component Memoization and Templatization](https://www.youtube.com/watch?v=sn-C_DKLKPE)
