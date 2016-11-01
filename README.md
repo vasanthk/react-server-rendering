@@ -24,3 +24,7 @@ Info on React Server side rendering
 [Hastening React SSR with Component Memoization and Templatization](https://www.youtube.com/watch?v=sn-C_DKLKPE)
 
 [Reactjs - Speed up Server Side Rendering - Sasha Aickin](https://www.youtube.com/watch?v=PnpfGy7q96U)
+
+## Discussions
+
+[Support asynchronous server rendering (waiting for data before rendering)](https://github.com/facebook/react/issues/1739)
