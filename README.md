@@ -34,6 +34,8 @@ If you call ReactDOM.render() on a node that already has this server-rendered ma
 
 [Reactjs - Speed up Server Side Rendering - Sasha Aickin](https://www.youtube.com/watch?v=PnpfGy7q96U)
 
+[Server-Side Rendering Isn’t Enough: NodeJS](https://www.youtube.com/watch?v=wRYdrfrL6ZQ)
+
 ## Discussions
 
 [Support asynchronous server rendering (waiting for data before rendering)](https://github.com/facebook/react/issues/1739)
