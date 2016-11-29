@@ -28,6 +28,8 @@ If you call ReactDOM.render() on a node that already has this server-rendered ma
 
 [How to build React apps that load quickly using server side rendering](https://www.terlici.com/2015/03/18/fast-react-loading-server-rendering.html)
 
+[Client Routing and Server Side Routing](http://stackoverflow.com/a/28558545/1672655)
+
 ## Videos
 
 [Hastening React SSR with Component Memoization and Templatization](https://www.youtube.com/watch?v=sn-C_DKLKPE)
