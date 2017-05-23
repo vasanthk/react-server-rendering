@@ -38,6 +38,8 @@ If you call ReactDOM.render() on a node that already has this server-rendered ma
 
 [Server-Side Rendering Isn’t Enough: NodeJS](https://www.youtube.com/watch?v=wRYdrfrL6ZQ)
 
+[How Streaming Can Supercharge React - Sasha Aickin](https://www.youtube.com/watch?v=UhdGiVy3_Nk)
+
 ## Discussions
 
 [Support asynchronous server rendering (waiting for data before rendering)](https://github.com/facebook/react/issues/1739)
